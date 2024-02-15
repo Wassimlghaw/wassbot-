@@ -4,7 +4,7 @@ import fetch from 'node-fetch'
 import { xpRange } from '../lib/levelling.js'
 //import { plugins } from '../lib/plugins.js'
 let tags = {
-  'morocco':'  ‎أوامر المتوفرة ❤',
+  'morocco':'  ❤ ‎أوامر المتوفرة',
   'applications':'‎ أوامر التطبيقات‎',
   'drawing':'‎ توليد الصور‎ أوامر' ,
   'ai':'‎ الذكاء الاصطناعي‎ أوامر',
@@ -136,7 +136,7 @@ let handler = async (m, { conn, usedPrefix: _p, __dirname }) => {
 text: text,
 contextInfo: {
 externalAdReply: {
-title: 'BOBIZA BOT ♥',
+title: 'WASBOT ♥',
 body: "أول بوت واتساب في العالم العربي 💖",
 thumbnailUrl: 'https://telegra.ph/file/6f5306889f79b9ba2285c.mp4',
 sourceUrl: 'https://instagram.com/noureddine_ouafy',
