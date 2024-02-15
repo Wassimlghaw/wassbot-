@@ -138,7 +138,7 @@ contextInfo: {
 externalAdReply: {
 title: 'WASBOT ♥',
 body: "أول بوت واتساب في العالم العربي 💖",
-thumbnailUrl: 'https://telegra.ph/file/6f5306889f79b9ba2285c.mp4',
+thumbnailUrl: 'https://telegra.ph/file/ee5915383edbc586bc581.jpg',
 sourceUrl: 'https://instagram.com/noureddine_ouafy',
 mediaType: 1,
 renderLargerThumbnail: true
