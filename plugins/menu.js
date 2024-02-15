@@ -139,7 +139,7 @@ externalAdReply: {
 title: 'WASBOT ♥',
 body: "أول بوت واتساب في العالم العربي 💖",
 thumbnailUrl: 'https://telegra.ph/file/ee5915383edbc586bc581.jpg',
-sourceUrl: 'https://istagram.com/ w_assim_2008',
+sourceUrl: 'https://instagram.com/ w_assim_2008',
 mediaType: 1,
 renderLargerThumbnail: true
 }}}, { quoted: m})
